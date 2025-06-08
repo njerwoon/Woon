@@ -23,7 +23,7 @@ Decarbonization,Decarbonization,ESG Assessment
 ESG/disclosure,ESG/disclosure,ESG Assessment
 New-landscape,New,Green Infrastructure
 Existing-landscape,Existing,Green Infrastructure
-CASBEE-ウェルネスオフィス,CASBEE-ウェルネスオフィス,Healthy Built Environment
+CASBEE-ウェルネスオフィス,CASBEE-<br>ウェルネスオフィス,Healthy Built Environment
 WELL building,WELL,Healthy Built Environment
 Fitwel,Fitwel,Healthy Built Environment
 New Energy Efficiency,New,Energy Efficiency
@@ -49,52 +49,52 @@ TSUNAG-ex,TSUNAG,Existing-landscape
 SITES-ex,SITES Existing,Existing-landscape
 BELS-new,BELS,New Energy Efficiency
 ZEB-new,ZEB,New Energy Efficiency
-Zero Energy Certification-new,Zero Energy Certification,New Energy Efficiency
+Zero Energy Certification-new,Zero Energy <br>Certification,New Energy Efficiency
 Passive House,Passive House,New Energy Efficiency
 BELS-ex,BELS,Existing Energy Efficiency
 ZEB-ex,ZEB,Existing Energy Efficiency
-Zero Energy Certification-ex,Zero Energy Certification,Existing Energy Efficiency
+Zero Energy Certification-ex,Zero Energy <br>Certification,Existing Energy Efficiency
 Energy Star,Energy Star,Existing Energy Efficiency
 LEED Zero-new: Water,LEED Zero: Water,New Circular Economy
 LEED Zero-new: Waste,LEED Zero: Waste,New Circular Economy
-TRUE for Construction-new,TRUE for Construction,New Circular Economy
-LEED Zero-ex: Water,LEED Zero-ex: Water,Existing Circular Economy
-LEED Zero-ex: Waste,LEED Zero-ex: Waste,Existing Circular Economy
-TRUE / TRUE for Event,TRUE / TRUE for Event,Existing Circular Economy
+TRUE for Construction-new,TRUE for <br>Construction,New Circular Economy
+LEED Zero-ex: Water,LEED Zero: Water,Existing Circular Economy
+LEED Zero-ex: Waste,LEED Zero: Waste,Existing Circular Economy
+TRUE / TRUE for Event,TRUE / TRUE<br> for Event,Existing Circular Economy
 CASBEE-建築,CASBEE-建築,New-Building
-DBJ Green Building,DBJ Green Building,New-Building
+DBJ Green Building,DBJ Green <br>Building,New-Building
 LEED BD+C,LEED BD+C,New-Building
 LEED ID+C,LEED ID+C,New-Building
-Living Building Challenge,Living Building Challenge,New-Building
+Living Building Challenge,Living Building <br>Challenge,New-Building
 BREEAM,BREEAM,New-Building
 CASBEE-建築 Existing,CASBEE-建築 既存,Existing-building
 CASBEE-不動産,CASBEE-不動産,Existing-building
 LEED O+M,LEED O+M,Existing-building
-Arc Performance Certificates,Arc Performance Certificates,Existing-building
+Arc Performance Certificates,Arc Performance <br>Certificates,Existing-building
 Arc PERFORM,Arc PERFORM,Existing-building
 BREEAM In-Use,BREEAM In-Use,Existing-building
 CASBEE-街区,CASBEE-街区,New-area
 LEED ND,LEED ND,New-area
-LEED for Communities,LEED for Communities,New-area
+LEED for Communities,LEED for <br>Communities,New-area
 WELL Community,WELL Community,New-area
-LEED for Communities existing,LEED for Communities,Existing-area
+LEED for Communities existing,LEED for <br>Communities,Existing-area
 WELL Community existing,WELL Community,Existing-area
 SITES-Existing,SITES-Existing,Existing-landscape
 Integrative Process Planning & Assessments-new,Integrative Process (IP),LEED BD+C
 Location and Transportation (LT)-new,Location and Transportation (LT),LEED BD+C
 Sustainable Sites (SS)-new,Sustainable Sites (SS),LEED BD+C
 Water Efficiency (WE)-new,Water Efficiency (WE),LEED BD+C
-Energy and Atmosphere (EA)-new,Energy and Atmosphere (EA),LEED BD+C
-Materials and Resources (MR)-new,Materials and Resources (MR),LEED BD+C
-Indoor Environmental Quality (IEQ)-new,Indoor Environmental Quality (EQ),LEED BD+C
+Energy and Atmosphere (EA)-new,Energy and<br> Atmosphere (EA),LEED BD+C
+Materials and Resources (MR)-new,Materials an<br>d Resources (MR),LEED BD+C
+Indoor Environmental Quality (IEQ)-new,Indoor Environmental<br> Quality (EQ),LEED BD+C
 Project Priorities (PR)-new,Project Priorities (PR),LEED BD+C
 1 Site Context,1 Site Context,SITES-New
-2 Pre-Design Assessment + Planning,2 Pre-Design Assessment + Planning,SITES-New
-3 Site Design Water,3 Site Design - Water,SITES-New
-4 Site Design - Soil+ Vegetation,4 Site Design - Soil+ Vegetation,SITES-New
-5 Site Design - Materials Selection,5 Site Design -Materials Selection,SITES-New
-6 Site Design - Health + Well-Being,6 Site Design - HumanHealth + Well-Being,SITES-New
+2 Pre-Design Assessment + Planning,2 Pre-Design <br>Assessment + Planning,SITES-New
+3 Site Design Water,3 Water,SITES-New
+4 Site Design - Soil+ Vegetation,4 Soil+ Vegetation,SITES-New
+5 Site Design - Materials Selection,5 Materials Selection,SITES-New
+6 Site Design - Health + Well-Being,6 HumanHealth + Well-Being,SITES-New
 7 Construction,7 Construction,SITES-New
-8 Operations +Maintenance,8 Operations +Maintenance,SITES-New
-9 Education+Performance Monitoring,9 Education+Performance Monitoring Education,SITES-New
-10 Innovation or Exemplary Performance,10 Innovation or Exemplary Performance,SITES-New
+8 Operations +Maintenance,8 Operations +<br>Maintenance,SITES-New
+9 Education+Performance Monitoring,9 Education+Performance <br>Monitoring Education,SITES-New
+10 Innovation or Exemplary Performance,10 Innovation or <br>Exemplary Performance,SITES-New
